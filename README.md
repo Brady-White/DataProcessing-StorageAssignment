@@ -2,7 +2,7 @@
 
 1. Clone the repository.
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Brady-White/DataProcessing-StorageAssignment.git>
    ```
 
 2. Compile the Java files.
